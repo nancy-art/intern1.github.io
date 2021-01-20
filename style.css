@@ -1235,6 +1235,8 @@ text-transform: none !important;
     right: 15px;
     display: none;
     border-radius: 97px;
+    background-color:grey;
+    border-color: black;
   }
   .scroll-top i {
     display: inline-block;
